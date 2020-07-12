@@ -1,4 +1,4 @@
-﻿### Command Design Pattern
+﻿### Command Pattern
 
 - A command contains all the data to process the request now or at a later time
 - The command pattern can easily be leveraged to allow undo or redo functionality		

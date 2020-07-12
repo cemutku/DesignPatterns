@@ -1,4 +1,4 @@
-﻿### Strategy Design Pattern
+﻿### Strategy Pattern
 
 * The Strategy pattern is sometimes also called policy pattern
 	

@@ -1,4 +1,4 @@
-﻿### Design Patterns : State
+﻿### State Pattern
 
 State is the condition of something variable.
 

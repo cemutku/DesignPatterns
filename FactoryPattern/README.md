@@ -1,4 +1,4 @@
-﻿### Factory Design Pattern
+﻿### Factory Pattern
 
 	A factory is an object for creating objects.
 	

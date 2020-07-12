@@ -1,4 +1,4 @@
-﻿### Singleton Design Pattern
+﻿### Singleton Pattern
 
 * A singleton is a class designed to only ever have one instance.
 * For example; Some kind of shared resource like access file system, access shared network resource, etc...
