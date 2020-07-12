@@ -26,8 +26,8 @@ namespace RepositoryPattern.API.Controllers
 
         [HttpGet("{id}", Name = "Get")]
         public Customer Get(Guid id)
-        {
-            return _customerRepository.Get(id);
+        {            
+            return _customerRepository.Get(id); 
         }
 
         [HttpPost]
