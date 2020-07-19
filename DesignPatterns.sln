@@ -22,9 +22,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryPattern.API", "Re
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryPattern.Infrastructure", "RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure.csproj", "{3D2EBF72-CE25-4D66-BF31-49011D1BA580}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{D3360193-54E6-4FB0-BE21-3607FFC76B81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryPattern", "FactoryPattern\FactoryPattern.csproj", "{D3360193-54E6-4FB0-BE21-3607FFC76B81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{E2E06727-0219-4A3A-ADF3-A433CC47A88E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibilityPattern", "ChainOfResponsibilityPattern\ChainOfResponsibilityPattern.csproj", "{E2E06727-0219-4A3A-ADF3-A433CC47A88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{3F7CD134-5FD4-46BB-8724-DF8656C3C2AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -64,6 +66,10 @@ Global
 		{E2E06727-0219-4A3A-ADF3-A433CC47A88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2E06727-0219-4A3A-ADF3-A433CC47A88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2E06727-0219-4A3A-ADF3-A433CC47A88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7CD134-5FD4-46BB-8724-DF8656C3C2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7CD134-5FD4-46BB-8724-DF8656C3C2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7CD134-5FD4-46BB-8724-DF8656C3C2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7CD134-5FD4-46BB-8724-DF8656C3C2AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,10 +21,5 @@ namespace RepositoryPattern.Infrastructure.Repositories
 
             return base.Update(customer);
         }
-
-        public Customer Test()
-        {
-            return new Customer();
-        }
     }
 }
